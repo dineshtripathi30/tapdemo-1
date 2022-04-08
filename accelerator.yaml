@@ -11,7 +11,7 @@ accelerator:
     label: Nice Label
     display: true
     defaultValue: ""
-    required: true
+    required: false
 engine:
   include:
   - '**'
