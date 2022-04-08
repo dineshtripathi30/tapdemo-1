@@ -7,7 +7,7 @@ accelerator:
   - springboot
   - demoapp
   options:
-  - name: Label
+  - name: label
     label: Nice Label
     display: true
     defaultValue: ""
