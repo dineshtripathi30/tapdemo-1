@@ -1,0 +1,17 @@
+accelerator:
+  displayName: tapdemo-1
+  description: Tap Demo Accelerator
+  iconUrl: https://raw.githubusercontent.com/dineshtripathi30/icons/master/icon-pets.jpeg
+  tags:
+  - java
+  - springboot
+  - demoapp
+  options:
+  - name: Label
+    label: Nice Label
+    display: true
+    defaultValue: ""
+    required: true
+engine:
+  include:
+  - '**'
